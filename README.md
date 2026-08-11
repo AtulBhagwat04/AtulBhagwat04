@@ -77,6 +77,12 @@ A real-time audience engagement platform for live polls, quizzes, and Q&A with s
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
